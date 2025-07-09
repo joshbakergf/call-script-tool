@@ -4,7 +4,7 @@ import './FormStyles.css';
 export default function ContactForm() {
   return (
     <div className="form-container">
-      <h2>Contact Us</h2>
+      <h2>Go-Forth Home Services</h2>
       <form id="contact-form">
         <div className="form-group">
           <label htmlFor="name">Name</label>
